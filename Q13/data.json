@@ -1,0 +1,82 @@
+[
+    {
+      "bill_code": "BI0002413",
+      "bill_total": "700.00",
+      "total_paid": ".00",
+      "payment_status": "Not Fully Paid",
+      "order_id": "AN0003333",
+      "item_names": "Swimming Costumes Ladies"
+    },
+    {
+      "bill_code": "BI0002414",
+      "bill_total": "500.00",
+      "total_paid": "500.00",
+      "payment_status": "Fully Paid",
+      "order_id": "AN0003335",
+      "item_names": "Swimming Adults"
+    },
+    {
+      "bill_code": "BI0002415",
+      "bill_total": "2150.00",
+      "total_paid": "8600.00",
+      "payment_status": "Fully Paid",
+      "order_id": "AN0003336",
+      "item_names": "Dawa, BBQ-ED Chicken Diable, Boulangere Potatoes, Crumbed Chicken Drum Stick"
+    },
+    {
+      "bill_code": "BI0002416",
+      "bill_total": "1600.00",
+      "total_paid": "1600.00",
+      "payment_status": "Fully Paid",
+      "order_id": "AN0003343",
+      "item_names": "Red Bull"
+    },
+    {
+      "bill_code": "BI0002416",
+      "bill_total": "1600.00",
+      "total_paid": "1600.00",
+      "payment_status": "Fully Paid",
+      "order_id": "AN0003344",
+      "item_names": "Crumbed Chicken Drum Stick"
+    },
+    {
+      "bill_code": "BI0002416",
+      "bill_total": "1600.00",
+      "total_paid": "1600.00",
+      "payment_status": "Fully Paid",
+      "order_id": "AN0003345",
+      "item_names": "Delmonte juice 1ltr"
+    },
+    {
+      "bill_code": "BI0002417",
+      "bill_total": "4450.00",
+      "total_paid": "4450.00",
+      "payment_status": "Fully Paid",
+      "order_id": "AN11434241",
+      "item_names": "Pot of Tea"
+    },
+    {
+      "bill_code": "BI0002417",
+      "bill_total": "4450.00",
+      "total_paid": "13350.00",
+      "payment_status": "Fully Paid",
+      "order_id": "AN45263681",
+      "item_names": "Mbuzi Choma 1/2kg, Ugali, Portion Ugali"
+    },
+    {
+      "bill_code": "BI0002418",
+      "bill_total": "400.00",
+      "total_paid": ".00",
+      "payment_status": "Not Fully Paid",
+      "order_id": "AN0003332",
+      "item_names": "Assorted Sodas 300ml"
+    },
+    {
+      "bill_code": "BI0002418",
+      "bill_total": "400.00",
+      "total_paid": ".00",
+      "payment_status": "Not Fully Paid",
+      "order_id": "AN0003334",
+      "item_names": "Beef Sausage(2pcs)"
+    }
+  ]
